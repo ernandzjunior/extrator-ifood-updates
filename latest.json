@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.8",
-    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.8/ExtratorCardapioSoftcom_Setup_1.6.8.exe",
-    "sha256":  "2284e5048aee87b78ab6d7c7b5caf8d9ef0cb630597ee5fef85b955617850eb3",
-    "notes":  "Adapta a extração do Anota.ai à nova vitrine, percorrendo automaticamente todas as categorias e consolidando os produtos.",
+    "version":  "1.6.9",
+    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.9/ExtratorCardapioSoftcom_Setup_1.6.9.exe",
+    "sha256":  "ef3f0181dfdbe9fac464a24ddc7893de49242b8cf8020a6798a46b888e6663ce",
+    "notes":  "Corrige a leitura de preços promocionais nos cardápios Anota.ai.",
     "mandatory":  false
 }
