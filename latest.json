@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.7",
-    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.7/ExtratorCardapioSoftcom_Setup_1.6.7.exe",
-    "sha256":  "7f1cc19f6c6cf612bcea7b08987dd067ff6e0bd438629485e485883948edd7f4",
-    "notes":  "Bloqueia login e extracoes de operadores desativados, adiciona exclusao de operador no painel e registra o nome publico da loja nas extracoes Web, Anota AI e PDF quando disponivel.",
+    "version":  "1.6.8",
+    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.8/ExtratorCardapioSoftcom_Setup_1.6.8.exe",
+    "sha256":  "2284e5048aee87b78ab6d7c7b5caf8d9ef0cb630597ee5fef85b955617850eb3",
+    "notes":  "Adapta a extração do Anota.ai à nova vitrine, percorrendo automaticamente todas as categorias e consolidando os produtos.",
     "mandatory":  false
 }
