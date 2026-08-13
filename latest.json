@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.9",
-    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.9/ExtratorCardapioSoftcom_Setup_1.6.9.exe",
-    "sha256":  "ef3f0181dfdbe9fac464a24ddc7893de49242b8cf8020a6798a46b888e6663ce",
+    "version":  "1.6.10",
+    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.10/ExtratorCardapioSoftcom_Setup_1.6.10.exe",
+    "sha256":  "16cca67d6f00be90b334a1db26dfa14c202fdd108f908b86c3cec157ed58a5d7",
     "notes":  "",
     "mandatory":  false
 }
