@@ -1,0 +1,7 @@
+{
+    "version":  "1.6.4",
+    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.4/ExtratorIfood_Setup_1.6.4.exe",
+    "sha256":  "52fffeb23a7c31a1a72385b8be7d84f06d878b16db476194c108e1aeb5a1a914",
+    "notes":  "Corrige a remocao de emojis nas extracoes, evita a falha de descompactacao do PIL e adiciona atualizacoes automaticas seguras por SHA-256.",
+    "mandatory":  false
+}
