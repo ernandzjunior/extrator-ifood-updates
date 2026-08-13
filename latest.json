@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.6",
-    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.6/ExtratorCardapioSoftcom_Setup_1.6.6.exe",
-    "sha256":  "f7715d476fd053a234ae9caaaf89902bc4b278dcb140b14db366a27f3ba83c3b",
-    "notes":  "Corrige o contador de extracoes para registrar cardapios do iFood, Web, Anota AI e PDF, exibindo tambem a origem no painel de monitoramento.",
+    "version":  "1.6.7",
+    "url":  "https://github.com/ernandzjunior/extrator-ifood-updates/releases/download/v1.6.7/ExtratorCardapioSoftcom_Setup_1.6.7.exe",
+    "sha256":  "7f1cc19f6c6cf612bcea7b08987dd067ff6e0bd438629485e485883948edd7f4",
+    "notes":  "Bloqueia login e extracoes de operadores desativados, adiciona exclusao de operador no painel e registra o nome publico da loja nas extracoes Web, Anota AI e PDF quando disponivel.",
     "mandatory":  false
 }
